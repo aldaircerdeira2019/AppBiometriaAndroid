@@ -1,7 +1,7 @@
 # SISTEMA DE IDENTIFICAÇÃO E AUTENTICAÇÃO BIOMÉTRICA
 
 - 	Curso:  Ciência da computação	
--   4ª período	2ª semestres de 2018
+-   5ª período | 2ª semestres de 2018
 - 	Trabalho de atividades pratica supervisionadas – APS
 
 ## Informações do app
